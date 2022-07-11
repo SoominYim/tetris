@@ -27,3 +27,5 @@
     Block Change Direction : ↑
     Slow Drop: ↓
     Fast Drop : Space bar
+
+### [사용해보기](https://soominyim.github.io/tetris/){:target="\_blank"}
